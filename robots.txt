@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santamonicaplumbingco.com/sitemap.xml
